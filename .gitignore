@@ -1,3 +1,5 @@
 *.csv
+
 data/
+!data/cleaned_dataset.csv
 .ipynb_checkpoints/
